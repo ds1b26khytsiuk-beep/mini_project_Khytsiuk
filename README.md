@@ -38,6 +38,6 @@ mini-project-khytsiuk/
 * Підтверджено залежність рівня заробітної плати Junior-фахівців від обраного технологічного стеку та локації / формату роботи.
 
 ## Використані засоби
-Microsoft Excel, Microsoft PowerPoint, Visual Studio Code, GitHub.
 
-
+* **Основні інструменти:** Microsoft Excel, Microsoft PowerPoint, Visual Studio Code, GitHub.
+* **Допоміжні інструменти:** Штучний інтелект (Google Gemini) — для структурування проєкту та перевірки формулювань.
